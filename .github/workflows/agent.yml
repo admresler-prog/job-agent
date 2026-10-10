@@ -1,0 +1,36 @@
+name: Denní pracovní agent
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 6 * * *' # 06:15 UTC = 07:15/08:15 v ČR podle roční doby
+permissions:
+  contents: write
+concurrency:
+  group: denni-agent
+  cancel-in-progress: false
+jobs:
+  aktualizace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Hledání a e-mail
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: python agent.py
+      - name: Zveřejnění přehledu a historie
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add nabidky.html inzeraty.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Denní aktualizace pracovních nabídek'
+            git push
+          fi
