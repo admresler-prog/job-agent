@@ -1,0 +1,19 @@
+PRACOVNÍ AGENT – instalace na GitHub
+===================================
+1. Otevři repozitář na GitHubu, ve kterém je nabidky.html a běží GitHub Pages.
+2. Nahraj agent.py, upozorneni.py a requirements.txt do hlavní složky repozitáře.
+3. Nahraj denni-agent.yml do složky .github/workflows/ (v GitHubu lze při vytváření souboru zadat cestu .github/workflows/denni-agent.yml).
+4. Pokud máš z PyCharmu soubor inzeraty.json, nahraj jej také – zachová historii a nebude hlásit staré inzeráty jako nové.
+5. V repozitáři otevři Akce -> Denní pracovní agent -> Spustit pracovní postup (Run workflow).
+6. V Nastavení -> Akce -> Obecné -> Oprávnění pracovních postupů povol čtení a zápis (Read and write permissions), pokud push hlásí chybu 403.
+7. GitHub Pages musí publikovat ze stejné větve a kořene, do kterých workflow zapisuje.
+8. Volitelný e-mail: v Nastavení -> Tajné kódy a proměnné -> Akce vlož tři tajné kódy:
+   GMAIL_ADDRESS (tvůj Gmail), GMAIL_APP_PASSWORD (heslo aplikace Gmail, NE běžné heslo), NOTIFY_EMAIL (kam zprávy posílat).
+   Heslo aplikace vyžaduje zapnuté dvoufázové ověření; Google jej nemusí každému účtu nabízet.
+   Bez těchto kódů agent stále aktualizuje web, jen neposílá e-maily.
+POZOR: GitHub repozitář je veřejný. inzeraty.json obsahuje názvy, odkazy a skóre nabídek. Neuploaduj .env, běžná hesla, API klíče ani soukromé údaje.
+Pozn.: Jobs.cz může blokovat automatické dotazy; pokud se to stane, může být hledání neúplné.
+
+NOVĚ: Agent hledá QA testery, datové analytiky a prompt engineery na Jobs.cz, Prace.cz a StartupJobs.cz.
+Pozor: Další portály mohou změnit adresy nebo blokovat automatické načítání. V takovém případě agent zapíše nula výsledků, nikoli falešné inzeráty.
+Pokud nahráváš nový balíček přes GitHub, zachovej existující inzeraty.json (historie nových nabídek).
