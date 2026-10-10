@@ -13,7 +13,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:21.938735+00:00",
-        "novy": true
+        "novy": false
     },
     "2001417199": {
         "nazev": "Tester - oblast investičního bankovnictví",
@@ -28,7 +28,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:23.582237+00:00",
-        "novy": true
+        "novy": false
     },
     "2001470072": {
         "nazev": "QA Automation Engineer pro agilní tým (Brno)",
@@ -47,7 +47,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:30.987764+00:00",
-        "novy": true
+        "novy": false
     },
     "2001341525": {
         "nazev": "QA Automation Engineer",
@@ -62,7 +62,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:32.418728+00:00",
-        "novy": true
+        "novy": false
     },
     "2001335460": {
         "nazev": "QA Automation Engineer",
@@ -79,7 +79,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:35.332214+00:00",
-        "novy": true
+        "novy": false
     },
     "2001427655": {
         "nazev": "PPC specialista / Datový analytik (junior)",
@@ -94,7 +94,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:39.339501+00:00",
-        "novy": true
+        "novy": false
     },
     "2001468066": {
         "nazev": "Junior Datový analytik v Automotive",
@@ -110,7 +110,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:40.770898+00:00",
-        "novy": true
+        "novy": false
     },
     "2001440614": {
         "nazev": "Tender & Transport Data Analyst",
@@ -126,7 +126,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:45.021670+00:00",
-        "novy": true
+        "novy": false
     },
     "2001417774": {
         "nazev": "Data Analyst / Risk Management Consultant",
@@ -144,7 +144,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:46.565537+00:00",
-        "novy": true
+        "novy": false
     },
     "2001382924": {
         "nazev": "Data Analyst / Data Engineer",
@@ -161,7 +161,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:49.484999+00:00",
-        "novy": true
+        "novy": false
     },
     "2001419533": {
         "nazev": "Data Analyst",
@@ -177,7 +177,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:52.684261+00:00",
-        "novy": true
+        "novy": false
     },
     "Prace.cz:https://www.prace.cz/firma/rtbg20-seznam-cz-a-s/nabidka/fa9f570e-b21a-4c6d-95b2-8dba90f6b530/": {
         "nazev": "Datový analytik pro Homepage",
@@ -193,7 +193,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:54.604927+00:00",
-        "novy": true
+        "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/06df7584-9ecc-41a0-b82d-294acdf3c635/": {
         "nazev": "Data Analyst",
@@ -210,6 +210,6 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-10T14:14:55.942983+00:00",
-        "novy": true
+        "novy": false
     }
 }
