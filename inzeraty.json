@@ -211,5 +211,71 @@
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-12T15:22:09.080589+00:00",
         "novy": false
+    },
+    "2001477224": {
+        "nazev": "(QA) Test analytik/tester",
+        "odkaz": "https://www.jobs.cz/rpd/2001477224/",
+        "kategorie": "QA tester",
+        "skore": 70,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+10: Manuální testování",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-13T14:10:23.045971+00:00",
+        "novy": true
+    },
+    "2001476316": {
+        "nazev": "QA inženýr/ka: rozjeď testování naší mobilní aplikace",
+        "odkaz": "https://www.jobs.cz/rpd/2001476316/",
+        "kategorie": "QA tester",
+        "skore": 50,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+5: Zmíněná preferovaná lokalita: Brno",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-13T14:10:26.118524+00:00",
+        "novy": true
+    },
+    "2001476249": {
+        "nazev": "Tester-ka/Technical Writer v Plzni",
+        "odkaz": "https://www.jobs.cz/rpd/2001476249/",
+        "kategorie": "QA tester",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+10: Manuální testování",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-13T14:10:30.566216+00:00",
+        "novy": true
+    },
+    "Prace.cz:https://www.prace.cz/nabidka/ca001464-0eb9-4f0b-ab54-9d9beb82735d/": {
+        "nazev": "(QA) Test analytik/tester",
+        "odkaz": "https://www.prace.cz/nabidka/ca001464-0eb9-4f0b-ab54-9d9beb82735d/",
+        "kategorie": "QA tester",
+        "portal": "Prace.cz",
+        "skore": 70,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+10: Manuální testování",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-13T14:10:39.035816+00:00",
+        "novy": true
     }
 }
