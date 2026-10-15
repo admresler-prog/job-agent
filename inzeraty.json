@@ -224,7 +224,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-13T14:10:23.045971+00:00",
+        "zkontrolovano": "2026-10-15T11:27:28.305547+00:00",
         "novy": false
     },
     "2001476316": {
@@ -240,7 +240,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-13T14:10:26.118524+00:00",
+        "zkontrolovano": "2026-10-15T11:27:31.012967+00:00",
         "novy": false
     },
     "2001476249": {
@@ -257,7 +257,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-13T14:10:30.566216+00:00",
+        "zkontrolovano": "2026-10-15T11:27:35.002063+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/ca001464-0eb9-4f0b-ab54-9d9beb82735d/": {
@@ -274,7 +274,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-13T14:10:39.035816+00:00",
+        "zkontrolovano": "2026-10-15T11:27:45.430870+00:00",
         "novy": false
     },
     "2001479425": {
@@ -293,6 +293,21 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-14T11:50:47.875607+00:00",
+        "novy": false
+    },
+    "Prace.cz:https://www.prace.cz/nabidka/8ddb40cf-9dd0-4ba6-bef6-50dd85d0c47c/": {
+        "nazev": "Procesní technolog a datový analytik (M/Ž)",
+        "odkaz": "https://www.prace.cz/nabidka/8ddb40cf-9dd0-4ba6-bef6-50dd85d0c47c/",
+        "kategorie": "Datový analytik",
+        "portal": "Prace.cz",
+        "skore": 50,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-15T11:27:46.617306+00:00",
         "novy": true
     }
 }
