@@ -12,7 +12,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:50:42.242684+00:00",
+        "zkontrolovano": "2026-10-16T11:22:03.877668+00:00",
         "novy": false
     },
     "2001417199": {
@@ -27,7 +27,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:50:40.672024+00:00",
+        "zkontrolovano": "2026-10-16T11:22:02.398727+00:00",
         "novy": false
     },
     "2001470072": {
@@ -45,7 +45,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:50:50.947958+00:00",
+        "zkontrolovano": "2026-10-16T11:22:13.449831+00:00",
         "novy": false
     },
     "2001341525": {
@@ -77,7 +77,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:50:53.807777+00:00",
+        "zkontrolovano": "2026-10-16T11:22:16.290767+00:00",
         "novy": false
     },
     "2001427655": {
@@ -124,7 +124,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:51:00.756689+00:00",
+        "zkontrolovano": "2026-10-16T11:22:22.938030+00:00",
         "novy": false
     },
     "2001417774": {
@@ -159,7 +159,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:51:05.267867+00:00",
+        "zkontrolovano": "2026-10-16T11:22:25.832305+00:00",
         "novy": false
     },
     "2001419533": {
@@ -191,7 +191,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:51:09.675814+00:00",
+        "zkontrolovano": "2026-10-16T11:22:29.967819+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/06df7584-9ecc-41a0-b82d-294acdf3c635/": {
@@ -292,7 +292,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-14T11:50:47.875607+00:00",
+        "zkontrolovano": "2026-10-16T11:22:10.702012+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/8ddb40cf-9dd0-4ba6-bef6-50dd85d0c47c/": {
@@ -308,6 +308,6 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-15T11:27:46.617306+00:00",
-        "novy": true
+        "novy": false
     }
 }
