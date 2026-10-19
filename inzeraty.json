@@ -12,7 +12,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:03.389846+00:00",
+        "zkontrolovano": "2026-10-19T13:11:50.816632+00:00",
         "novy": false
     },
     "2001417199": {
@@ -27,7 +27,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:04.837996+00:00",
+        "zkontrolovano": "2026-10-19T13:11:52.489530+00:00",
         "novy": false
     },
     "2001470072": {
@@ -45,7 +45,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:16.606162+00:00",
+        "zkontrolovano": "2026-10-19T13:12:04.286794+00:00",
         "novy": false
     },
     "2001341525": {
@@ -77,7 +77,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:19.205497+00:00",
+        "zkontrolovano": "2026-10-19T13:12:06.894794+00:00",
         "novy": false
     },
     "2001427655": {
@@ -124,7 +124,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:26.754646+00:00",
+        "zkontrolovano": "2026-10-19T13:12:14.628522+00:00",
         "novy": false
     },
     "2001417774": {
@@ -159,7 +159,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:29.557453+00:00",
+        "zkontrolovano": "2026-10-19T13:12:17.419315+00:00",
         "novy": false
     },
     "2001419533": {
@@ -191,7 +191,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:36.408864+00:00",
+        "zkontrolovano": "2026-10-19T13:12:25.197183+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/06df7584-9ecc-41a0-b82d-294acdf3c635/": {
@@ -224,7 +224,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:12.699258+00:00",
+        "zkontrolovano": "2026-10-19T13:12:00.189265+00:00",
         "novy": false
     },
     "2001476316": {
@@ -240,7 +240,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:15.186708+00:00",
+        "zkontrolovano": "2026-10-19T13:12:02.845089+00:00",
         "novy": false
     },
     "2001476249": {
@@ -257,7 +257,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:21.765600+00:00",
+        "zkontrolovano": "2026-10-19T13:12:09.611781+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/ca001464-0eb9-4f0b-ab54-9d9beb82735d/": {
@@ -274,7 +274,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:33.653075+00:00",
+        "zkontrolovano": "2026-10-19T13:12:22.667202+00:00",
         "novy": false
     },
     "2001479425": {
@@ -292,7 +292,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:11.378537+00:00",
+        "zkontrolovano": "2026-10-19T13:11:58.882066+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/8ddb40cf-9dd0-4ba6-bef6-50dd85d0c47c/": {
@@ -307,7 +307,39 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-18T11:03:35.113793+00:00",
+        "zkontrolovano": "2026-10-19T13:12:23.869573+00:00",
         "novy": false
+    },
+    "2001487741": {
+        "nazev": "Junior Tester/Test Analyst",
+        "odkaz": "https://www.jobs.cz/rpd/2001487741/",
+        "kategorie": "QA tester",
+        "skore": 70,
+        "duvody": [
+            "+20: Juniorská pozice v názvu",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-19T13:11:49.631093+00:00",
+        "novy": true
+    },
+    "Prace.cz:https://www.prace.cz/firma/esgbmx-avenga-czechia-s-r-o/nabidka/581cff0e-1971-4bd3-a6cc-eae6e15402e3/": {
+        "nazev": "Junior Tester/Test Analyst",
+        "odkaz": "https://www.prace.cz/firma/esgbmx-avenga-czechia-s-r-o/nabidka/581cff0e-1971-4bd3-a6cc-eae6e15402e3/",
+        "kategorie": "QA tester",
+        "portal": "Prace.cz",
+        "skore": 80,
+        "duvody": [
+            "+20: Juniorská pozice v názvu",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-19T13:12:21.480383+00:00",
+        "novy": true
     }
 }
