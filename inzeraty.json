@@ -324,7 +324,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-19T13:11:49.631093+00:00",
-        "novy": true
+        "novy": false
     },
     "Prace.cz:https://www.prace.cz/firma/esgbmx-avenga-czechia-s-r-o/nabidka/581cff0e-1971-4bd3-a6cc-eae6e15402e3/": {
         "nazev": "Junior Tester/Test Analyst",
@@ -340,6 +340,22 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-19T13:12:21.480383+00:00",
+        "novy": false
+    },
+    "2001479845": {
+        "nazev": "📊 Junior Data Analyst | Datový analytik",
+        "odkaz": "https://www.jobs.cz/rpd/2001479845/",
+        "kategorie": "Datový analytik",
+        "skore": 70,
+        "duvody": [
+            "+20: Juniorská pozice v názvu",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-20T11:34:43.642420+00:00",
         "novy": true
     }
 }
