@@ -540,6 +540,55 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-22T11:51:33.002522+00:00",
+        "novy": false
+    },
+    "Prace.cz:https://www.prace.cz/firma/esgbmx-avenga-czechia-s-r-o/nabidka/c5b4f0f6-159e-493e-9915-bf0693e65232/": {
+        "nazev": "Integration QA Engineer",
+        "odkaz": "https://www.prace.cz/firma/esgbmx-avenga-czechia-s-r-o/nabidka/c5b4f0f6-159e-493e-9915-bf0693e65232/",
+        "kategorie": "QA tester",
+        "portal": "Prace.cz",
+        "skore": 35,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "-25: Zmíněny alespoň tři roky zkušeností; ověř, zda jsou povinné",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-23T11:37:06.441842+00:00",
+        "novy": true
+    },
+    "Prace.cz:https://www.prace.cz/firma/4krara-skip-pay-s-r-o/nabidka/79fc9b74-9d25-4d9c-bbbc-f6ba17a38a1f/": {
+        "nazev": "Data Analyst (možný poloviční úvazek)",
+        "odkaz": "https://www.prace.cz/firma/4krara-skip-pay-s-r-o/nabidka/79fc9b74-9d25-4d9c-bbbc-f6ba17a38a1f/",
+        "kategorie": "Datový analytik",
+        "portal": "Prace.cz",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-23T11:37:07.729758+00:00",
+        "novy": true
+    },
+    "Prace.cz:https://www.prace.cz/firma/4krara-skip-pay-s-r-o/nabidka/365069e8-15a5-4256-ab6c-4cc383bc4e85/": {
+        "nazev": "Fraud Data Analyst",
+        "odkaz": "https://www.prace.cz/firma/4krara-skip-pay-s-r-o/nabidka/365069e8-15a5-4256-ab6c-4cc383bc4e85/",
+        "kategorie": "Datový analytik",
+        "portal": "Prace.cz",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-23T11:37:09.102044+00:00",
         "novy": true
     }
 }
