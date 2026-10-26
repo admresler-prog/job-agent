@@ -191,7 +191,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:39.191001+00:00",
+        "zkontrolovano": "2026-10-26T13:00:09.354849+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/06df7584-9ecc-41a0-b82d-294acdf3c635/": {
@@ -274,7 +274,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:33.486750+00:00",
+        "zkontrolovano": "2026-10-26T13:00:00.689033+00:00",
         "novy": false
     },
     "2001479425": {
@@ -307,7 +307,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:37.801724+00:00",
+        "zkontrolovano": "2026-10-26T13:00:07.995030+00:00",
         "novy": false
     },
     "2001487741": {
@@ -339,7 +339,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:30.530544+00:00",
+        "zkontrolovano": "2026-10-26T12:59:56.102256+00:00",
         "novy": false
     },
     "2001479845": {
@@ -539,7 +539,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:29.157176+00:00",
+        "zkontrolovano": "2026-10-26T12:59:57.424800+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/firma/esgbmx-avenga-czechia-s-r-o/nabidka/c5b4f0f6-159e-493e-9915-bf0693e65232/": {
@@ -556,7 +556,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:31.921151+00:00",
+        "zkontrolovano": "2026-10-26T12:59:59.328598+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/firma/4krara-skip-pay-s-r-o/nabidka/79fc9b74-9d25-4d9c-bbbc-f6ba17a38a1f/": {
@@ -572,7 +572,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:34.868924+00:00",
+        "zkontrolovano": "2026-10-26T13:00:04.012214+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/firma/4krara-skip-pay-s-r-o/nabidka/365069e8-15a5-4256-ab6c-4cc383bc4e85/": {
@@ -588,7 +588,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-25T11:26:36.562551+00:00",
+        "zkontrolovano": "2026-10-26T13:00:06.205861+00:00",
         "novy": false
     },
     "2001494462": {
@@ -670,5 +670,23 @@
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-10-25T11:26:19.020494+00:00",
         "novy": false
+    },
+    "Prace.cz:https://www.prace.cz/nabidka/dce1b038-092c-4f15-919e-b50735cbe369/": {
+        "nazev": "⋙Data Analyst pro automatizaci⋘",
+        "odkaz": "https://www.prace.cz/nabidka/dce1b038-092c-4f15-919e-b50735cbe369/",
+        "kategorie": "Datový analytik",
+        "portal": "Prace.cz",
+        "skore": 45,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "-25: Zmíněny alespoň tři roky zkušeností; ověř, zda jsou povinné",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-10-26T13:00:02.673564+00:00",
+        "novy": true
     }
 }
