@@ -755,6 +755,20 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-11-02T15:47:06.427553+00:00",
+        "novy": false
+    },
+    "2001513007": {
+        "nazev": "QA Engineer",
+        "odkaz": "https://www.jobs.cz/rpd/2001513007/",
+        "kategorie": "QA tester",
+        "skore": 65,
+        "duvody": [
+            "+15: Text výslovně připouští začátečníky",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-03T14:11:14.097950+00:00",
         "novy": true
     }
 }
