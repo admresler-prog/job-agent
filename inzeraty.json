@@ -800,6 +800,68 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-11-05T14:38:36.910549+00:00",
+        "novy": false
+    },
+    "2001518803": {
+        "nazev": "Tester - oblast investičního bankovnictví",
+        "odkaz": "https://www.jobs.cz/rpd/2001518803/",
+        "kategorie": "QA tester",
+        "skore": 40,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-06T14:15:40.719169+00:00",
+        "novy": true
+    },
+    "2001519459": {
+        "nazev": "Tester/testerka",
+        "odkaz": "https://www.jobs.cz/rpd/2001519459/",
+        "kategorie": "QA tester",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-06T14:15:47.313715+00:00",
+        "novy": true
+    },
+    "2001498245": {
+        "nazev": "SQA Engineer / Specialista testování SW",
+        "odkaz": "https://www.jobs.cz/rpd/2001498245/",
+        "kategorie": "QA tester",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+5: Zmíněná preferovaná lokalita: Brno"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-06T14:15:49.203320+00:00",
+        "novy": true
+    },
+    "Prace.cz:https://www.prace.cz/firma/3fqtmf-masarykova-univerzita/nabidka/f76c921c-0f99-49f2-b71d-0e6a21f94fab/": {
+        "nazev": "Datový analytik/analytička",
+        "odkaz": "https://www.prace.cz/firma/3fqtmf-masarykova-univerzita/nabidka/f76c921c-0f99-49f2-b71d-0e6a21f94fab/",
+        "kategorie": "Datový analytik",
+        "portal": "Prace.cz",
+        "skore": 65,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+5: Zmíněná preferovaná lokalita: Brno",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-06T14:16:04.044849+00:00",
         "novy": true
     }
 }
