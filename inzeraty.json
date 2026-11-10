@@ -895,6 +895,37 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-11-09T16:16:08.877334+00:00",
+        "novy": false
+    },
+    "2001527312": {
+        "nazev": "DATOVÝ ANALYTIK JUNIOR / SUPPORT",
+        "odkaz": "https://www.jobs.cz/rpd/2001527312/",
+        "kategorie": "Datový analytik",
+        "skore": 70,
+        "duvody": [
+            "+20: Juniorská pozice v názvu",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-10T14:52:10.306624+00:00",
+        "novy": true
+    },
+    "2001526630": {
+        "nazev": "Process Mining Data Analyst/Data Engineer (m/f)",
+        "odkaz": "https://www.jobs.cz/rpd/2001526630/",
+        "kategorie": "Datový analytik",
+        "skore": 80,
+        "duvody": [
+            "+15: Text výslovně připouští začátečníky",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+10: Zmíněny analytické nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-10T14:52:18.396257+00:00",
         "novy": true
     }
 }
