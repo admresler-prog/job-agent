@@ -974,6 +974,23 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-11-19T15:44:43.021335+00:00",
+        "novy": false
+    },
+    "Prace.cz:https://www.prace.cz/nabidka/18f09073-cc9a-44a2-80d3-0454102f8369/": {
+        "nazev": "Datový analytik/čka kvalifikačních potřeb trhu práce a inovačního ekosystému",
+        "odkaz": "https://www.prace.cz/nabidka/18f09073-cc9a-44a2-80d3-0454102f8369/",
+        "kategorie": "Datový analytik",
+        "portal": "Prace.cz",
+        "skore": 65,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+5: Zmíněná preferovaná lokalita: Brno",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-20T15:25:53.581113+00:00",
         "novy": true
     }
 }
