@@ -159,7 +159,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:39:09.486883+00:00",
+        "zkontrolovano": "2026-11-23T18:04:56.398009+00:00",
         "novy": false
     },
     "2001419533": {
@@ -240,7 +240,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:37.063902+00:00",
+        "zkontrolovano": "2026-11-23T18:04:26.089409+00:00",
         "novy": false
     },
     "2001476249": {
@@ -703,7 +703,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:54.882421+00:00",
+        "zkontrolovano": "2026-11-23T18:04:41.890466+00:00",
         "novy": false
     },
     "2001498488": {
@@ -754,7 +754,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:19.251728+00:00",
+        "zkontrolovano": "2026-11-23T18:04:14.161539+00:00",
         "novy": false
     },
     "2001513007": {
@@ -768,7 +768,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:42.564624+00:00",
+        "zkontrolovano": "2026-11-23T18:04:30.240794+00:00",
         "novy": false
     },
     "2001510491": {
@@ -800,7 +800,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:50.503778+00:00",
+        "zkontrolovano": "2026-11-23T18:04:38.581877+00:00",
         "novy": false
     },
     "2001518803": {
@@ -815,7 +815,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:22.254362+00:00",
+        "zkontrolovano": "2026-11-23T18:04:16.206809+00:00",
         "novy": false
     },
     "2001519459": {
@@ -845,7 +845,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:44.269978+00:00",
+        "zkontrolovano": "2026-11-23T18:04:33.498235+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/firma/3fqtmf-masarykova-univerzita/nabidka/f76c921c-0f99-49f2-b71d-0e6a21f94fab/": {
@@ -862,7 +862,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:39:20.509496+00:00",
+        "zkontrolovano": "2026-11-23T18:05:07.250577+00:00",
         "novy": false
     },
     "2001519691": {
@@ -878,7 +878,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:26.073422+00:00",
+        "zkontrolovano": "2026-11-23T18:04:20.661572+00:00",
         "novy": false
     },
     "2001524625": {
@@ -910,7 +910,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:38:53.293957+00:00",
+        "zkontrolovano": "2026-11-23T18:04:40.039054+00:00",
         "novy": false
     },
     "2001526630": {
@@ -925,7 +925,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:39:00.806977+00:00",
+        "zkontrolovano": "2026-11-23T18:04:48.638415+00:00",
         "novy": false
     },
     "2001528651": {
@@ -957,7 +957,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:39:05.279912+00:00",
+        "zkontrolovano": "2026-11-23T18:04:52.405626+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/firma/4a67g3-zasilkovna-s-r-o/nabidka/4a4350f4-0487-455e-9ba8-0138cf953ffe/": {
@@ -973,7 +973,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-21T14:39:17.283829+00:00",
+        "zkontrolovano": "2026-11-23T18:05:03.992487+00:00",
         "novy": false
     },
     "Prace.cz:https://www.prace.cz/nabidka/18f09073-cc9a-44a2-80d3-0454102f8369/": {
@@ -990,7 +990,38 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-22T14:32:49.816221+00:00",
+        "zkontrolovano": "2026-11-23T18:05:05.303581+00:00",
         "novy": false
+    },
+    "2001550150": {
+        "nazev": "Tester/testerka",
+        "odkaz": "https://www.jobs.cz/rpd/2001550150/",
+        "kategorie": "QA tester",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-23T18:04:24.324275+00:00",
+        "novy": true
+    },
+    "2001550169": {
+        "nazev": "Tester simulátorů",
+        "odkaz": "https://www.jobs.cz/rpd/2001550169/",
+        "kategorie": "QA tester",
+        "skore": 45,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+5: Zmíněná preferovaná lokalita: Brno",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-23T18:04:31.893349+00:00",
+        "novy": true
     }
 }
