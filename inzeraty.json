@@ -1023,5 +1023,21 @@
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-11-23T18:04:31.893349+00:00",
         "novy": true
+    },
+    "Prace.cz:https://www.prace.cz/firma/p77bnn-provident-financial-s-r-o/nabidka/0174e975-58c5-4ef1-924c-d6f8cd56493f/": {
+        "nazev": "BI / Data Analyst",
+        "odkaz": "https://www.prace.cz/firma/p77bnn-provident-financial-s-r-o/nabidka/0174e975-58c5-4ef1-924c-d6f8cd56493f/",
+        "kategorie": "Datový analytik",
+        "portal": "Prace.cz",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-24T17:41:31.706985+00:00",
+        "novy": true
     }
 }
