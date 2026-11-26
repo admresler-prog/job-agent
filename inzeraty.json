@@ -49,18 +49,18 @@
         "novy": false
     },
     "2001341525": {
-        "nazev": "QA Automation Engineer",
+        "nazev": "QA Automation Engineer (API & Flutter)",
         "odkaz": "https://www.jobs.cz/rpd/2001341525/",
         "kategorie": "QA tester",
-        "skore": 30,
+        "skore": 0,
         "duvody": [
             "Juniorská úroveň není potvrzena – ověř požadavky.",
-            "-20: Hlavní zaměření na automatizaci",
-            "+5: Konkrétní QA činnosti nebo nástroje"
+            "-25: Zmíněny alespoň tři roky zkušeností; ověř, zda jsou povinné",
+            "-20: Hlavní zaměření na automatizaci"
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-10-12T15:21:51.610167+00:00",
+        "zkontrolovano": "2026-11-26T16:52:36.378659+00:00",
         "novy": false
     },
     "2001335460": {
@@ -1037,7 +1037,7 @@
         ],
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
-        "zkontrolovano": "2026-11-24T17:41:31.706985+00:00",
+        "zkontrolovano": "2026-11-26T16:52:59.394556+00:00",
         "novy": false
     },
     "2001551917": {
@@ -1053,7 +1053,7 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-11-25T17:11:24.249166+00:00",
-        "novy": true
+        "novy": false
     },
     "2001554271": {
         "nazev": "Junior Data Analytics Engineer (Part-time)",
@@ -1068,6 +1068,56 @@
         "vyhodnoceno": true,
         "verze_hodnoceni": 4,
         "zkontrolovano": "2026-11-25T17:11:53.698317+00:00",
+        "novy": false
+    },
+    "2001555819": {
+        "nazev": "Junior Tester | Vhodné i pro absolventy",
+        "odkaz": "https://www.jobs.cz/rpd/2001555819/",
+        "kategorie": "QA tester",
+        "skore": 80,
+        "duvody": [
+            "+20: Juniorská pozice v názvu",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+10: Manuální testování",
+            "+5: Konkrétní QA činnosti nebo nástroje"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-26T16:52:34.606528+00:00",
+        "novy": true
+    },
+    "2001555566": {
+        "nazev": "Data Analyst",
+        "odkaz": "https://www.jobs.cz/rpd/2001555566/",
+        "kategorie": "Datový analytik",
+        "skore": 50,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-26T16:52:50.307615+00:00",
+        "novy": true
+    },
+    "2001555255": {
+        "nazev": "BI & Data Analyst",
+        "odkaz": "https://www.jobs.cz/rpd/2001555255/",
+        "kategorie": "Datový analytik",
+        "skore": 60,
+        "duvody": [
+            "Juniorská úroveň není potvrzena – ověř požadavky.",
+            "+10: Zmíněna práce z domova; rozsah ověř v nabídce",
+            "-10: Zmíněna pokročilá angličtina (zachována původní preference)",
+            "+10: Zmíněny analytické nástroje",
+            "+5: Analytické činnosti v popisu"
+        ],
+        "vyhodnoceno": true,
+        "verze_hodnoceni": 4,
+        "zkontrolovano": "2026-11-26T16:52:51.982837+00:00",
         "novy": true
     }
 }
